@@ -1,0 +1,14 @@
+# Copyright (c) 2014-2017, racaljk.
+# https://github.com/racaljk/hosts
+# Last updated: 2017-08-05
+
+# This work is licensed under a CC BY-NC-SA 4.0 International License.
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1	localhost
+127.0.0.1  eureka7001.com
+127.0.0.1  eureka7002.com
+127.0.0.1  eureka7003.com
